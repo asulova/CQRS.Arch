@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Decorators\" />
+    <Folder Include="Extensions\" />
+    <Folder Include="Internal\" />
+    <Folder Include="MessageTypes\" />
+    <Folder Include="Validation\" />
+  </ItemGroup>
+
+</Project>
